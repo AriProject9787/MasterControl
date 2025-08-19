@@ -1,6 +1,6 @@
 
   // Set expiry date & time (YYYY-MM-DDTHH:MM:SS in ISO format)
-  const expiryDate = new Date("2025-04-10T23:59:59");
+  const expiryDate = new Date("2026-04-10T23:59:59");
 
   // Check current time
   const now = new Date();
